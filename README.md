@@ -14,28 +14,16 @@ Working
 💻 Tech Stack (Languages & Frameworks)
 Programming Languages
 
-JavaScript
-
-C / C++
-
-Python
-
-Lua
-
-Prolog
+JavaScript , C / C++ , Python , Lua ,Prolog
 
 💻 Web Development
 
-HTML
-
-CSS
-
-Node.js (JavaScript runtime)
+HTML, CSS , Node.js 
 
 💻 Tools / Technologies
 
-Git & GitHub
+Git & GitHub, VS Code, Unix / Linux command line
 
-VS Code 
+All About me:
 
-Unix / Linux command line
+- :)
