@@ -1,4 +1,4 @@
-## Hello! 😉
+## Hello! 💁
 
 Hello, my name is **Gerald Garcia Urena**, a computer Science Major in Rhode Island, USA🇺🇸
 
