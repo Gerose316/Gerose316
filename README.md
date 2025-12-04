@@ -9,8 +9,6 @@ Hello, my name is **Gerald Garcia Urena**, a computer Science Major in Rhode Isl
 💻 Interests: Full-stack development Back-end Development & Engineer, Front-end Development, Software Development, AI Engineer, DevOps
 
 
-Working 
-
 💻 Tech Stack (Languages & Frameworks)
 Programming Languages
 
